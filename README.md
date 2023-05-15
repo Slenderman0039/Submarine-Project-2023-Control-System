@@ -8,6 +8,7 @@ The project consisted in designing a Controller that respects some specification
 
 The project includes a first analytical part of resolution and description of the design and a numerical part to be carried out in the Simulink/MATLAB environment.
 
+## Description
 The stages were:
 
 - Linearization of the provided model.
