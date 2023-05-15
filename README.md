@@ -26,4 +26,25 @@ The stages were:
 - Implementation of the controller on a Simulink simulation of the system.
 
 
-Attached to the repository we provide the matlab codes with comments in Italian and the document presented to the professor.
+e repository we provide the matlab codes with comments in Italian and the document presented to the professor.
+
+
+## Images
+### Differential Equations
+<img width="385" alt="Senza titolo" src="https://github.com/AshenClock7613/Submarine-Project-2023-Control-System/assets/66488273/2c40bb7d-ff3b-44eb-a16a-3e6e8ebfc64e">
+### Bode Diagrams
+![bode_G(jw)](https://github.com/AshenClock7613/Submarine-Project-2023-Control-System/assets/66488273/84016e7d-1f6d-486a-8aeb-bddf172ade28)
+
+![Bode_C(jw)G(jw)](https://github.com/AshenClock7613/Submarine-Project-2023-Control-System/assets/66488273/50202dbd-814b-4e75-9d13-68bf02c5f00e)
+
+![Bode_Gc(jw)](https://github.com/AshenClock7613/Submarine-Project-2023-Control-System/assets/66488273/b1d179f8-bb08-4a48-8c45-e36623578a86)
+
+### Simulink Projects
+
+#### Linear Model
+![Simulazione_Simulink1](https://github.com/AshenClock7613/Submarine-Project-2023-Control-System/assets/66488273/b19f3dd9-33eb-4dd8-bbc9-98201477cdbb)
+![simulazione1](https://github.com/AshenClock7613/Submarine-Project-2023-Control-System/assets/66488273/90d139d1-8180-4084-a7eb-0190476222a1)
+#### Non Linear Model
+![SimulinkNonLinear](https://github.com/AshenClock7613/Submarine-Project-2023-Control-System/assets/66488273/b75bec65-ed73-448e-9292-9e95a1bb56ec)
+![NonLinearSystem](https://github.com/AshenClock7613/Submarine-Project-2023-Control-System/assets/66488273/b2ae5d85-bb7a-4c89-8531-360c6dbc363e)
+
