@@ -31,9 +31,12 @@ e repository we provide the matlab codes with comments in Italian and the docume
 
 ## Images
 ### Differential Equations
-<img width="385" alt="Senza titolo" src="https://github.com/AshenClock7613/Submarine-Project-2023-Control-System/assets/66488273/2c40bb7d-ff3b-44eb-a16a-3e6e8ebfc64e">
+
+<img width="600" alt="Senza titolo" src="https://github.com/AshenClock7613/Submarine-Project-2023-Control-System/assets/66488273/2c40bb7d-ff3b-44eb-a16a-3e6e8ebfc64e">
+
 ### Bode Diagrams
-![bode_G(jw)](https://github.com/AshenClock7613/Submarine-Project-2023-Control-System/assets/66488273/84016e7d-1f6d-486a-8aeb-bddf172ade28)
+
+![bode_G(jw)](https://github.com/AshenClock7613/Submarine-Project-2023-Control-System/assets/66488273/e9009029-dd8a-4cf0-9d0d-74612576c8ef)
 
 ![Bode_C(jw)G(jw)](https://github.com/AshenClock7613/Submarine-Project-2023-Control-System/assets/66488273/50202dbd-814b-4e75-9d13-68bf02c5f00e)
 
@@ -42,7 +45,7 @@ e repository we provide the matlab codes with comments in Italian and the docume
 ### Simulink Projects
 
 #### Linear Model
-![Simulazione_Simulink1](https://github.com/AshenClock7613/Submarine-Project-2023-Control-System/assets/66488273/b19f3dd9-33eb-4dd8-bbc9-98201477cdbb)
+<img width="1157" alt="Immagine 2023-05-15 234937" src="https://github.com/AshenClock7613/Submarine-Project-2023-Control-System/assets/66488273/426bbb33-57bf-4cfe-a8c2-c4be06a888d3">
 ![simulazione1](https://github.com/AshenClock7613/Submarine-Project-2023-Control-System/assets/66488273/90d139d1-8180-4084-a7eb-0190476222a1)
 #### Non Linear Model
 ![SimulinkNonLinear](https://github.com/AshenClock7613/Submarine-Project-2023-Control-System/assets/66488273/b75bec65-ed73-448e-9292-9e95a1bb56ec)
