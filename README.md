@@ -20,6 +20,8 @@ The stages were:
 
 - Design a controller that respects some project specifications.
 
+- Model a controller on sisotool environment
+
 - Implementation of the controller on a Simulink simulation of the system.
 
 
