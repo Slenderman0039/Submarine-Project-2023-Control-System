@@ -26,4 +26,3 @@ The stages were:
 
 
 Attached to the repository we provide the matlab codes with comments in Italian and the document presented to the professor.
-<a href="main/Progetto_Sottomarino_CA22_03.pdf" class="image fit"></a>
