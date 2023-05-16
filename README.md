@@ -31,9 +31,9 @@ e repository we provide the matlab codes with comments in Italian and the docume
 
 ## Images
 ### Differential Equations
-
+<center>
 <img width="600" alt="Senza titolo" src="https://github.com/AshenClock7613/Submarine-Project-2023-Control-System/assets/66488273/2c40bb7d-ff3b-44eb-a16a-3e6e8ebfc64e">
-
+</center>
 ### Bode Diagrams
 
 ![bode_G(jw)](https://github.com/AshenClock7613/Submarine-Project-2023-Control-System/assets/66488273/e9009029-dd8a-4cf0-9d0d-74612576c8ef)
